@@ -1,2 +1,2 @@
 # JavaScript-LeetCode
-JavaScript LeetCode Problems 
+JavaScript LeetCode Problems. 
